@@ -1,0 +1,50 @@
+[
+	{
+		"Frage": "Was ist die Hauptstadt von Deutschland?",
+		"Option1": "Paris",
+		"Option2": "Lissabon",
+		"Option3": "Dublin",
+		"Richtig": "Berlin",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	},
+	{
+		"Frage": "Was ist der Sinn des Lebens?",
+		"Option1": "Spass",
+		"Option2": "Arbeit",
+		"Option3": "Büroklammern",
+		"Richtig": "42",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	},
+	{
+		"Frage": "sin(x)^2 + cos(x)^2 = ____",
+		"Option1": "tan(x)^2",
+		"Option2": "2*cos(x+pi)",
+		"Option3": "ERROR bzw. undefiniert",
+		"Richtig": "1",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	},
+	{
+		"Frage": "Was ist der beste Dino?",
+		"Option1": "Stegosaurus",
+		"Option2": "Allosaurus",
+		"Option3": "Triceratops",
+		"Richtig": "T-Rex",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	},
+	{
+		"Frage": "Hä?",
+		"Option1": "Ja!",
+		"Option2": "Nein!",
+		"Option3": "Doch!",
+		"Richtig": "Wat?",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	},
+	{
+		"Frage": "Was sind die Mitochondrien?",
+		"Option1": "Eine Lungenkrankheit",
+		"Option2": "Hausbesetzer die die Miete nicht zahlen",
+		"Option3": "Das Gegenteil von Ohneochondrien",
+		"Richtig": "Das Kraftwerk der Zelle",
+		"Hintergrundbild": "/pfad/zum/Bild.png"
+	}
+]
