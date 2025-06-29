@@ -1,0 +1,522 @@
+[
+    {
+        "Frage": "Despite the risks, they decided to _____ to climb the mountain.",
+        "Option1": "lucrative",
+        "Option2": "entrepreneurial",
+        "Option3": "incentivise",
+        "Richtig": "endeavour",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her technical _____ was evident during the presentation.",
+        "Option1": "collaborative",
+        "Option2": "aptitude",
+        "Option3": "work ethic",
+        "Richtig": "competence",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He has a natural _____ for mathematics.",
+        "Option1": "endeavour",
+        "Option2": "entrepreneurial",
+        "Option3": "incentivise",
+        "Richtig": "aptitude",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She left her job for a more _____ opportunity abroad.",
+        "Option1": "endeavour",
+        "Option2": "collaborative",
+        "Option3": "proficient",
+        "Richtig": "lucrative",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The government aims to _____ companies to reduce emissions.",
+        "Option1": "aptitude",
+        "Option2": "proficient",
+        "Option3": "delegate",
+        "Richtig": "incentivise",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "A good manager knows when to _____ tasks to others.",
+        "Option1": "proficient",
+        "Option2": "incentivise",
+        "Option3": "endeavour",
+        "Richtig": "delegate",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She is _____ in three languages.",
+        "Option1": "endeavour",
+        "Option2": "delegate",
+        "Option3": "incentivise",
+        "Richtig": "proficient",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "We value a _____ approach to problem-solving.",
+        "Option1": "proficient",
+        "Option2": "lucrative",
+        "Option3": "work ethic",
+        "Richtig": "collaborative",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He showed an _____ spirit from a young age.",
+        "Option1": "delegate",
+        "Option2": "competence",
+        "Option3": "lucrative",
+        "Richtig": "entrepreneurial",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "His strong _____ made him stand out among his peers.",
+        "Option1": "delegate",
+        "Option2": "proficient",
+        "Option3": "entrepreneurial",
+        "Richtig": "work ethic",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She dismissed the _____ that money buys happiness.",
+        "Option1": "framework",
+        "Option2": "analogy",
+        "Option3": "epiphany",
+        "Richtig": "notion",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "This discovery could represent a shift in the scientific _____.",
+        "Option1": "intuition",
+        "Option2": "analogy",
+        "Option3": "notion",
+        "Richtig": "paradigm",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "We discussed a _____ scenario where robots rule the world.",
+        "Option1": "framework",
+        "Option2": "intuition",
+        "Option3": "notion",
+        "Richtig": "hypothetical",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "His argument is based on the _____ that all people are rational.",
+        "Option1": "notion",
+        "Option2": "premise",
+        "Option3": "analogy",
+        "Richtig": "assumption",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The theory is pure _____ without any solid evidence.",
+        "Option1": "framework",
+        "Option2": "premise",
+        "Option3": "paradigm",
+        "Richtig": "conjecture",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The movie's plot is built on the _____ that time travel is possible.",
+        "Option1": "conjecture",
+        "Option2": "analogy",
+        "Option3": "notion",
+        "Richtig": "premise",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "They proposed a new legal _____ for regulating AI.",
+        "Option1": "intuition",
+        "Option2": "epiphany",
+        "Option3": "paradigm",
+        "Richtig": "framework",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her decision was guided more by _____ than logic.",
+        "Option1": "analogy",
+        "Option2": "assumption",
+        "Option3": "paradigm",
+        "Richtig": "intuition",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He had an _____ about his career during the retreat.",
+        "Option1": "assumption",
+        "Option2": "framework",
+        "Option3": "hypothetical",
+        "Richtig": "epiphany",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The teacher used an _____ to explain the complex process.",
+        "Option1": "conjecture",
+        "Option2": "assumption",
+        "Option3": "hypothetical",
+        "Richtig": "analogy",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her argument was clear and _____ throughout the debate.",
+        "Option1": "refute",
+        "Option2": "articulate",
+        "Option3": "fallacy",
+        "Richtig": "coherent",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He's able to _____ his ideas with clarity and precision.",
+        "Option1": "succinct",
+        "Option2": "eloquent",
+        "Option3": "nuanced",
+        "Richtig": "articulate",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She managed to _____ all the claims made by the opposition.",
+        "Option1": "succinct",
+        "Option2": "nuanced",
+        "Option3": "eloquent",
+        "Richtig": "refute",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The detective made an _____ based on the available evidence.",
+        "Option1": "redundant",
+        "Option2": "rebuttal",
+        "Option3": "articulate",
+        "Richtig": "inference",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "His _____ was strong enough to weaken the opponent's stance.",
+        "Option1": "inference",
+        "Option2": "succinct",
+        "Option3": "nuanced",
+        "Richtig": "rebuttal",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "It's a common _____ to assume correlation implies causation.",
+        "Option1": "nuanced",
+        "Option2": "rebuttal",
+        "Option3": "articulate",
+        "Richtig": "fallacy",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The speaker gave an _____ account of the events.",
+        "Option1": "succinct",
+        "Option2": "coherent",
+        "Option3": "fallacy",
+        "Richtig": "eloquent",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Your explanation needs to be more _____ and to the point.",
+        "Option1": "redundant",
+        "Option2": "rebuttal",
+        "Option3": "coherent",
+        "Richtig": "succinct",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Many of the details in his report were _____ and unnecessary.",
+        "Option1": "refute",
+        "Option2": "rebuttal",
+        "Option3": "succinct",
+        "Richtig": "redundant",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her analysis was _____, considering multiple perspectives.",
+        "Option1": "redundant",
+        "Option2": "succinct",
+        "Option3": "eloquent",
+        "Richtig": "nuanced",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Children can be remarkably _____ in the face of adversity.",
+        "Option1": "tenacious",
+        "Option2": "meticulous",
+        "Option3": "conscientious",
+        "Richtig": "resilient",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Being _____ helps you express your needs clearly.",
+        "Option1": "conscientious",
+        "Option2": "meticulous",
+        "Option3": "cynical",
+        "Richtig": "assertive",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "We must not become _____ about our progress.",
+        "Option1": "resilient",
+        "Option2": "compassionate",
+        "Option3": "cynical",
+        "Richtig": "complacent",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She kept _____ records of every transaction.",
+        "Option1": "tenacious",
+        "Option2": "conscientious",
+        "Option3": "versatile",
+        "Richtig": "meticulous",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He's become _____ about politicians and their promises.",
+        "Option1": "meticulous",
+        "Option2": "tenacious",
+        "Option3": "aloof",
+        "Richtig": "cynical",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "A good leader is firm yet _____.",
+        "Option1": "conscientious",
+        "Option2": "complacent",
+        "Option3": "aloof",
+        "Richtig": "compassionate",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her _____ attitude helped her achieve her goals.",
+        "Option1": "complacent",
+        "Option2": "compassionate",
+        "Option3": "aloof",
+        "Richtig": "tenacious",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He is a _____ performer who can act, sing, and dance.",
+        "Option1": "cynical",
+        "Option2": "resilient",
+        "Option3": "compassionate",
+        "Richtig": "versatile",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "He remained _____ even in social settings.",
+        "Option1": "tenacious",
+        "Option2": "complacent",
+        "Option3": "versatile",
+        "Richtig": "aloof",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She is a _____ student who always submits quality work.",
+        "Option1": "meticulous",
+        "Option2": "compassionate",
+        "Option3": "assertive",
+        "Richtig": "conscientious",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The company had a strict _____ structure with clear ranks.",
+        "Option1": "time-consuming",
+        "Option2": "problematic",
+        "Option3": "implementation",
+        "Richtig": "hierarchical",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "They _____ the process to make it more efficient.",
+        "Option1": "implementation",
+        "Option2": "integrated",
+        "Option3": "problematic",
+        "Richtig": "streamlined",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The team was _____ and worked well together.",
+        "Option1": "widespread",
+        "Option2": "systematic",
+        "Option3": "time-consuming",
+        "Richtig": "cohesive",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The report was _____ and lacked clarity.",
+        "Option1": "hierarchical",
+        "Option2": "lacklustre",
+        "Option3": "dubious",
+        "Richtig": "fragmented",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The new system was fully _____ into the existing workflow.",
+        "Option1": "subpar",
+        "Option2": "widespread",
+        "Option3": "mind-numbing",
+        "Richtig": "integrated",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "She took a _____ approach to solving the problem.",
+        "Option1": "cohesive",
+        "Option2": "implementation",
+        "Option3": "time-consuming",
+        "Richtig": "systematic",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "There were _____ bursts of applause throughout the event.",
+        "Option1": "streamlined",
+        "Option2": "unsubstantiated",
+        "Option3": "groundbreaking",
+        "Richtig": "intermittent",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The new software eliminated _____ in data entry.",
+        "Option1": "far-fetched",
+        "Option2": "systematic",
+        "Option3": "subpar",
+        "Richtig": "redundancy",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The _____ of the new policy took several weeks.",
+        "Option1": "time-consuming",
+        "Option2": "negligent",
+        "Option3": "intermittent",
+        "Richtig": "implementation",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "They designed the solution to be _____ for future expansion.",
+        "Option1": "subpar",
+        "Option2": "unsubstantiated",
+        "Option3": "deceptive",
+        "Richtig": "scalable",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The company was found _____ in its safety procedures.",
+        "Option1": "deceptive",
+        "Option2": "streamlined",
+        "Option3": "redundancy",
+        "Richtig": "negligent",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "His explanation sounded _____ and unconvincing.",
+        "Option1": "streamlined",
+        "Option2": "far-fetched",
+        "Option3": "inexcusable",
+        "Richtig": "dubious",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The movie received _____ reviews from critics.",
+        "Option1": "counterproductive",
+        "Option2": "problematic",
+        "Option3": "systematic",
+        "Richtig": "lacklustre",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Her performance in the exam was _____ and disappointing.",
+        "Option1": "streamlined",
+        "Option2": "scalable",
+        "Option3": "time-consuming",
+        "Richtig": "subpar",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The error was _____ given the importance of the task.",
+        "Option1": "widespread",
+        "Option2": "mind-numbing",
+        "Option3": "fragmented",
+        "Richtig": "inexcusable",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The claims made in the article were _____ by evidence.",
+        "Option1": "scalable",
+        "Option2": "time-consuming",
+        "Option3": "systematic",
+        "Richtig": "unsubstantiated",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The decision was _____ and sparked heated debate.",
+        "Option1": "intermittent",
+        "Option2": "hierarchical",
+        "Option3": "subpar",
+        "Richtig": "controversial",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Arguing at this point would be _____ to our goals.",
+        "Option1": "intermittent",
+        "Option2": "systematic",
+        "Option3": "cohesive",
+        "Richtig": "counterproductive",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The plan is _____ and needs revision.",
+        "Option1": "unsubstantiated",
+        "Option2": "implementation",
+        "Option3": "integrated",
+        "Richtig": "problematic",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "Appearances can be _____, especially in advertising.",
+        "Option1": "controversial",
+        "Option2": "widespread",
+        "Option3": "systematic",
+        "Richtig": "deceptive",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "His theory seemed _____ and lacked credibility.",
+        "Option1": "implementation",
+        "Option2": "groundbreaking",
+        "Option3": "unsubstantiated",
+        "Richtig": "far-fetched",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "There is _____ support for the new policy.",
+        "Option1": "intermittent",
+        "Option2": "scalable",
+        "Option3": "inexcusable",
+        "Richtig": "widespread",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The approval process can be _____ and frustrating.",
+        "Option1": "inexcusable",
+        "Option2": "deceptive",
+        "Option3": "mind-numbing",
+        "Richtig": "time-consuming",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "They made a _____ discovery in the field of genetics.",
+        "Option1": "deceptive",
+        "Option2": "dubious",
+        "Option3": "negligent",
+        "Richtig": "groundbreaking",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    },
+    {
+        "Frage": "The data entry job was _____ and repetitive.",
+        "Option1": "dubious",
+        "Option2": "unsubstantiated",
+        "Option3": "widespread",
+        "Richtig": "mind-numbing",
+        "Hintergrundbild": "/pfad/zum/Bild.png"
+    }
+]

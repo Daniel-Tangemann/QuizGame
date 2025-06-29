@@ -6,6 +6,9 @@ from PIL import Image, ImageTk
 from quiz_gui import start_quiz
 from editor_gui import start_editor
 
+# Setze Arbeitsverzeichnis auf Ordner dieser Datei
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 # --- hauptmenu ---
 def start_main_menu():
     root = tk.Tk()
